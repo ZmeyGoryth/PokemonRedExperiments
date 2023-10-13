@@ -1,3 +1,9 @@
+THIS CODE IS A FORK FROM A ANOTHER PROJECT.
+Check the original on this link.
+https://github.com/PWhiddy/PokemonRedExperiments
+
+
+
 # Pokemon Red RL
 
 <a href="https://youtu.be/DcYLT37ImBY">
